@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch=".." review="https://github.com/Xalgorithms" />
+  <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
+  <project path="services/schedule" name="xadf-schedule-service" />
+  <project path="services/respond" name="xadf-respond-service" />
+  <project path="services/query" name="xadf-query-service" />
+</manifest>
