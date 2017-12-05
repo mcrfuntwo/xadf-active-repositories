@@ -11,4 +11,5 @@
   <project path="services/schedule" name="xadf-schedule-service" />
   <project path="services/respond" name="xadf-respond-service" />
   <project path="services/query" name="xadf-query-service" />
+  <project path="services/revisions" name="xadf-revisions-service" />
 </manifest>
