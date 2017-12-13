@@ -2,6 +2,7 @@
 <manifest>
   <remote name="origin" fetch=".." review="https://github.com/Xalgorithms" />
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
+  <project path="apps/jupyterhub" name="jupyterhub" />
   <project path="docs/arch" name="xa-arch" />
   <project path="functions/compute" name="xadf-compute-functions" />
   <project path="libs/ubl" name="xa-ubl" />
