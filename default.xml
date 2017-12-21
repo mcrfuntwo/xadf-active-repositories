@@ -3,6 +3,7 @@
   <remote name="origin" fetch=".." review="https://github.com/Xalgorithms" />
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
   <project path="apps/jupyterhub" name="jupyterhub" />
+  <project path="apps/jupyter-notebook" name="notebook" />
   <project path="docs/arch" name="xa-arch" />
   <project path="functions/compute" name="xadf-compute-functions" />
   <project path="libs/dockerspawner" name="dockerspawner" />
@@ -10,6 +11,7 @@
   <project path="libs/rules" name="xa-rules" />
   <project path="ops/assembly" name="xa-assembly" />
   <project path="ops/deploy" name="xadf-deploy" />
+  <project path="ops/jupyter-docker-stacks" name="docker-stacks" />
   <project path="services/schedule" name="xadf-schedule-service" />
   <project path="services/respond" name="xadf-respond-service" />
   <project path="services/query" name="xadf-query-service" />
