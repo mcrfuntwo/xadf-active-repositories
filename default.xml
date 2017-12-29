@@ -5,6 +5,7 @@
   <project path="apps/jupyterhub" name="jupyterhub" />
   <project path="apps/jupyter-notebook" name="notebook" />
   <project path="docs/arch" name="xa-arch" />
+  <project path="examples/general" name="xadf-examples-general" />
   <project path="functions/compute" name="xadf-compute-functions" />
   <project path="libs/dockerspawner" name="dockerspawner" />
   <project path="libs/ubl" name="xa-ubl" />
